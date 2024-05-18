@@ -5,7 +5,6 @@ ___________________________________
 
 ### Timeline
 - [x] Order of materials required for drone and initial research
-- [x] Implementation of initial model (Nvidia TrailNet): https://arxiv.org/abs/1705.02550
 - [x] Dec '18: Research on Semantic Segmentation and Deep Reinforcement Learning 
 - [x] Jan '19: Implementation of models
 - [x] Feb '19: Quark presentation
@@ -31,11 +30,4 @@ ___________________________________
 #### Deep Reinforcement Learning
 - Memory-based Deep Reinforcement Learning for Obstacle Avoidance in UAV with Limited Environment Knowledge: https://arxiv.org/abs/1811.03307
 
-
-_____________________________________________________________
-
-Collaborators:
-
-- [Souradeep Chakraborty](https://github.com/sauradefy99)
-- [Kartik Bhatia](https://github.com/bhatiakartik10)
 
