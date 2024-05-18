@@ -5,9 +5,9 @@ ___________________________________
 
 ### Timeline
 - [x] Order of materials required for drone and initial research
-- [x] Dec '18: Research on Semantic Segmentation and Deep Reinforcement Learning 
-- [x] Jan '19: Implementation of models
-- [x] Feb '19: Quark presentation
+- [x] Dec '23: Research on Semantic Segmentation and Deep Reinforcement Learning 
+- [x] Jan '24: Implementation of models
+- [x] Feb '24: Quark presentation
 
 ### Research Papers (Resources)
 #### Semantic Segmentation:
